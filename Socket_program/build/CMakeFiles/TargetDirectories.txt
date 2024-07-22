@@ -1,0 +1,4 @@
+/home/evgenii/Socket_program/build/CMakeFiles/rebuild_cache.dir
+/home/evgenii/Socket_program/build/CMakeFiles/edit_cache.dir
+/home/evgenii/Socket_program/build/CMakeFiles/Socket_program1.dir
+/home/evgenii/Socket_program/build/CMakeFiles/Socket_program2.dir
