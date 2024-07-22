@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/evgenii/Socket_program/program2.cpp
+cstring
+-
+iostream
+-
+netinet/in.h
+-
+sys/socket.h
+-
+unistd.h
+-
+thread
+-
+chrono
+-
+

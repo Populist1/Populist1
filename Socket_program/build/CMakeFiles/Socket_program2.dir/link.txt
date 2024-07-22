@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Socket_program2.dir/program2.cpp.o  -o Socket_program2 -lpthread 
