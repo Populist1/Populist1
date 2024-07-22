@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Socket_program.dir/program1.cpp.o CMakeFiles/Socket_program.dir/program2.cpp.o  -o Socket_program 
